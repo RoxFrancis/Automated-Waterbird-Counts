@@ -1,3 +1,3 @@
-# Automated-Waterbird-Counts
+# Semi-Automated-Waterbird-Counts
 
-PhD student working on the management of avian biodiversity in Botswana, in particular exploring the responses of waterbirds to river flows.
+Code to follow pubished methodology on semi-automating waterbird (or other species in large aggregations) counts using either freeware or payware.
